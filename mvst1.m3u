@@ -1354,3 +1354,8 @@ http://956020774184981755.ofcdpron.xyz:80/live/8462SR/PR2023/981755.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VdBh0+z2UWw7jUN06UEmDw", "kid":"jJo7DuCYR5mo7HZ8Oh02ZQ" } ], "type":"temporary" }
 https://cache1.zapitv.com/live/eds_c2/MUNDOTORO/dash_live_ez/MUNDOTORO.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Good Boy: Confia en su instinto" tvg-logo="https://image.tmdb.org/t/p/w400/3lJt067VAwy5OsEOLH7rinnbwam.jpg" group-title="▶️ESTRENOS 2025",Good Boy: Confia en su instinto
+http://liontv.es:8080/movie/Emilio0305/05Emilio/1597155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hellraiser: Ella" tvg-logo="https://image.tmdb.org/t/p/w400/gEFoo66nTFdF8YB79CQurtUyJfj.jpg" group-title="▶️ESTRENOS 2022",Hellraiser: Ella
+http://liontv.es:8080/movie/Emilio0305/05Emilio/1597157.mkv
