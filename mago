@@ -106,7 +106,7 @@ http://stover-wp7.cdn.telefonica.com/4981/vxfmt=dp/Manifest.mpd?device_profile=D
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3Nzc1ODQ1MDAsInN1YiI6IjNFbHE4TkNMVFQ2TUhCRExDSE1ubkE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc3NzU4NDUwMCwibmJmIjoxNzc3NTg0NTAwLCJleHAiOjE3Nzc2Mjc3MDAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiJBMjJFRDcxQjE3MzdCOTRCREIyRDJGRDlERkZCM0FDQiIsInVpZCI6IjE5R2FaL0s2RHdXblZ1N2grRVJjaEkxNG04RkZ6Z2xUM2ZTYWdGRm5YOTg9IiwiYWNjIjoiVEtXcWx3TS82S1VDcTZoKzNSeVkvQT09IiwicyI6IjEyIiwiY2hwIjpmYWxzZX0.jijxu83DPrXQcOf1QzANKA0JK4QQRSI1EubBWGCTignfWkhpDpHDNcOaMLwgOLYHEc4LV0sALwCtte85GZ24dw
 http://stover-wp7.cdn.telefonica.com/5074/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-07T17:30:00Z&end_time=2024-02-07T23:30:00Z
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NAVA" group-title="Varios",Navarra TV
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NAVA" group-title="Autonómicos",Navarra TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={56ae24e38632469caadfaf106fc418b0:529efffb64a8762eab2cc3eb74a03ba0}
@@ -138,7 +138,7 @@ http://stover-wp7.cdn.telefonica.com/5090/vxfmt=dp/Manifest.mpd?device_profile=D
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3Nzc1ODQ1MDAsInN1YiI6IjNFbHE4TkNMVFQ2TUhCRExDSE1ubkE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc3NzU4NDUwMCwibmJmIjoxNzc3NTg0NTAwLCJleHAiOjE3Nzc2Mjc3MDAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiJBMjJFRDcxQjE3MzdCOTRCREIyRDJGRDlERkZCM0FDQiIsInVpZCI6IjE5R2FaL0s2RHdXblZ1N2grRVJjaEkxNG04RkZ6Z2xUM2ZTYWdGRm5YOTg9IiwiYWNjIjoiVEtXcWx3TS82S1VDcTZoKzNSeVkvQT09IiwicyI6IjEyIiwiY2hwIjpmYWxzZX0.jijxu83DPrXQcOf1QzANKA0JK4QQRSI1EubBWGCTignfWkhpDpHDNcOaMLwgOLYHEc4LV0sALwCtte85GZ24dw
 http://stover-wp7.cdn.telefonica.com/5089/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-07T17:30:00Z&end_time=2024-02-07T23:30:00Z
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CASMAN" group-title="Varios",Castilla la Mancha TV
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CASMAN" group-title="Autonómicos",Castilla la Mancha TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={78714c2c68c04472b2e311019edc6a93:7aff100e2added9125c4a426626bcd66}
@@ -146,7 +146,7 @@ http://stover-wp7.cdn.telefonica.com/5089/vxfmt=dp/Manifest.mpd?device_profile=D
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3Nzc1ODQ1MDAsInN1YiI6IjNFbHE4TkNMVFQ2TUhCRExDSE1ubkE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc3NzU4NDUwMCwibmJmIjoxNzc3NTg0NTAwLCJleHAiOjE3Nzc2Mjc3MDAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiJBMjJFRDcxQjE3MzdCOTRCREIyRDJGRDlERkZCM0FDQiIsInVpZCI6IjE5R2FaL0s2RHdXblZ1N2grRVJjaEkxNG04RkZ6Z2xUM2ZTYWdGRm5YOTg9IiwiYWNjIjoiVEtXcWx3TS82S1VDcTZoKzNSeVkvQT09IiwicyI6IjEyIiwiY2hwIjpmYWxzZX0.jijxu83DPrXQcOf1QzANKA0JK4QQRSI1EubBWGCTignfWkhpDpHDNcOaMLwgOLYHEc4LV0sALwCtte85GZ24dw
 http://stover-wp7.cdn.telefonica.com/5265/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-07T17:30:00Z&end_time=2024-02-07T23:30:00Z
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CYLTV" group-title="Varios",La 7
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CYLTV" group-title="Autonómicos",La 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={c9279b98dba74f1bad984be2ba4c7188:a7882af76fa4b9030b06b7df0c28a42e}
@@ -154,7 +154,7 @@ http://stover-wp7.cdn.telefonica.com/5265/vxfmt=dp/Manifest.mpd?device_profile=D
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3Nzc1ODQ1MDAsInN1YiI6IjNFbHE4TkNMVFQ2TUhCRExDSE1ubkE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc3NzU4NDUwMCwibmJmIjoxNzc3NTg0NTAwLCJleHAiOjE3Nzc2Mjc3MDAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiJBMjJFRDcxQjE3MzdCOTRCREIyRDJGRDlERkZCM0FDQiIsInVpZCI6IjE5R2FaL0s2RHdXblZ1N2grRVJjaEkxNG04RkZ6Z2xUM2ZTYWdGRm5YOTg9IiwiYWNjIjoiVEtXcWx3TS82S1VDcTZoKzNSeVkvQT09IiwicyI6IjEyIiwiY2hwIjpmYWxzZX0.jijxu83DPrXQcOf1QzANKA0JK4QQRSI1EubBWGCTignfWkhpDpHDNcOaMLwgOLYHEc4LV0sALwCtte85GZ24dw
 http://stover-wp7.cdn.telefonica.com/5266/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-07T17:30:00Z&end_time=2024-02-07T23:30:00Z
-#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" group-title="Varios",À Punt
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" group-title="Autonómicos",À Punt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={3da699dd90ca4ed5b592dc1a294812ad:bb436703dea1abe660c00967657a35d3}
